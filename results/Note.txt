@@ -1,0 +1,34 @@
+GroupEnrollmentByTAZ_HandUpdates.csv
+Included
+COTAZID, School, Enrollment
+110173 - Davis District Kay's Creek School  (Enrol_Midl - 714)
+350970 - Canyons District Mount Jordan Middle  (Enrol_Midl - 749)
+3117 - Box Elder District Alice C. Harris Intermediate (Enrol_Midl - 835)
+30077 - Box Elder District Adele C. Young Intermediate  (Enrol_Midl - 1,009)
+3125 - Box Elder District McKinley School  (Enrol_Elem - 594)
+
+__________________________________________________________________________________________________________
+
+Natalia,
+
+I have processed the K-12 Enrollment data by the updated TAZ file at the state level. This includes both public and private schools. There are 160 records that have zeros in all three enrollment categories. In review of the data, when selecting regular public schools that are not online or pre-K, I was able to narrow the number of schools missed to about 8. Those include three in Box Elder County that seem of some significance and a handful of others:
+
+COTAZID, School, Enrollment
+110173 - Davis District Kay's Creek School  (Enrol_Midl - 714)
+350970 - Canyons District Mount Jordan Middle  (Enrol_Midl - 749)
+3117 - Box Elder District Alice C. Harris Intermediate (Enrol_Midl - 835)
+30077 - Box Elder District Adele C. Young Intermediate  (Enrol_Midl - 1,009)
+3125 - Box Elder District McKinley School  (Enrol_Elem - 594)
+Logan City District LCSD Center for Home Learning
+Davis District Catalyst Center
+Juab District Arizona State University Prep Digital Powered by Juab
+
+One larger private school I noticed is missing enrollment data as well:
+110116 - Layton Christian Academy (k-12 580 students)
+
+Attached is the data without the enrollment for these schools, I can also go in and hand input those few schools as an addendum to the data we have. There is a data source entitled Niche that seems to have fairly good enrollment data based on the Department of Education, the US Census and the FBI. I think what we have is good enough, but I found this data source interesting as I was able to find enrollment for the schools above. 
+
+Let me know if you'd like these schools added.
+
+Thanks,
+Suzie
