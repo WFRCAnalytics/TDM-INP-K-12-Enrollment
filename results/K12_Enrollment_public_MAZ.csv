@@ -1,0 +1,813 @@
+maz_id,SchoolName,Public_Elem,Public_Midl,Public_High,PriCha_Elem,PriCha_Midl,PriCha_High,Enrol_Elem,Enrol_Midl,Enrol_High
+44,Goldminer's Daughter,11,0,0,0,0,0,11,0,0
+6818,Summit Academy - Bluffdale,0,0,0,537,0,0,537,0,0
+6858,Blackridge School,782,0,0,0,0,0,782,0,0
+6859,Ridge View Elementary,713,0,0,0,0,0,713,0,0
+6862,Oak Hollow School,488,0,0,0,0,0,488,0,0
+6891,Fort Herriman Middle,0,1200,0,0,0,0,0,1200,0
+6913,JuniperMountain Ridge High,544,0,2746,0,0,0,544,0,2746
+6928,Bluffdale School,736,0,0,0,0,0,736,0,0
+6939,North Star Academy,0,0,0,359,163,0,359,163,0
+6943,Foothills School,838,0,0,0,0,0,838,0,0
+7042,Kauri Sue HamiltonPreschool,128,48,110,0,0,0,128,48,110
+7062,South Hills Middle,0,1182,0,0,0,0,0,1182,0
+7070,Channing Hall,0,0,0,499,105,0,499,105,0
+7111,Just 4 Kids Adventures Riverton,0,0,0,0,0,0,0,0,0
+7113,Idea Academy,0,0,0,0,0,0,0,0,0
+7133,Willow Springs School,563,0,0,0,0,0,563,0,0
+7167,Herriman School,679,0,0,0,0,0,679,0,0
+7177,Riverton School,657,0,0,0,0,0,657,0,0
+7220,Summit AcademyMy Summit Adventures,0,0,0,0,0,0,0,0,0
+7230,Oquirrh Hills Middle,0,1263,0,0,0,0,0,1263,0
+7234,Draper Park Middle,0,1414,0,0,0,0,0,1414,0
+7246,Montessori at Riverton,0,0,0,0,0,0,0,0,0
+7263,Corner Canyon High,0,0,2437,0,0,0,0,0,2437
+7282,Draper School,680,0,0,0,0,0,680,0,0
+7301,Southland School,592,0,0,0,0,0,592,0,0
+7396,Riverton High,0,0,2302,0,0,0,0,0,2302
+7405,Carone Fitness,0,0,0,0,0,0,0,0,0
+7415,Bastian School,741,0,0,0,0,0,741,0,0
+7426,Athlos Academy of Utah,0,0,0,417,41,0,417,41,0
+7457,Rosamond School,573,0,0,0,0,0,573,0,0
+7505,Sprucewood School,343,0,0,0,0,0,343,0,0
+7572,St. Andrew Catholic School,0,0,0,0,0,0,0,0,0
+7580,Advantage Arts Academy,0,0,0,354,0,0,354,0,0
+7587,Herriman High,0,0,2521,0,0,0,0,0,2521
+7588,Copper Mountain Middle,0,1094,0,0,0,0,0,1094,0
+7593,Midas Creek School,759,0,0,0,0,0,759,0,0
+7595,St. John The Baptist MiddleJuan Diego Catholic HighSt. John The Baptist Elem.,0,0,0,0,0,0,0,0,0
+7660,Early Light Academy at Daybreak,0,0,0,731,292,0,731,292,0
+7681,Gateway Academy,0,0,0,0,0,0,0,0,0
+7704,Daybreak School,701,0,0,0,0,0,701,0,0
+7718,Indian Hills Middle,0,1075,0,0,0,0,0,1075,0
+7737,Paradigm High School,0,0,0,0,180,173,0,180,173
+7745,Mountain West Montessori Academy,0,0,0,369,82,0,369,82,0
+7760,Lone Peak School,516,0,0,0,0,0,516,0,0
+7808,Kiwi Kids,0,0,0,0,0,0,0,0,0
+7812,Huntington Learning Center,0,0,0,0,0,0,0,0,0
+7814,American Preparatory Academy - Draper #2American Preparatory Academy - Draper #3,0,0,0,1070,491,228,1070,491,228
+7888,Sunrise School,647,0,0,0,0,0,647,0,0
+7923,South Jordan School,863,0,0,0,0,0,863,0,0
+7925,Aspen Elementary,902,0,0,0,0,0,902,0,0
+8001,Alta High,0,0,2276,0,0,0,0,0,2276
+8002,Altara School,560,0,0,0,0,0,560,0,0
+8054,Monte Vista School,783,0,0,0,0,0,783,0,0
+8075,Eastlake School,792,0,0,0,0,0,792,0,0
+8127,American Academy of Innovation,0,0,0,0,200,174,0,200,174
+8219,Hilltop Christian School,0,0,0,0,0,0,0,0,0
+8338,Golden Fields SchoolMountain Creek Middle School,854,1317,0,0,0,0,854,1317,0
+8351,Alta View School,556,0,0,0,0,0,556,0,0
+8437,Eastmont Middle,0,516,0,0,0,0,0,516,0
+8447,South Jordan Middle,0,1189,0,0,0,0,0,1189,0
+8519,Bingham High,0,0,2460,0,0,0,0,0,2460
+8544,Park Lane School,325,0,0,0,0,0,325,0,0
+8561,Granite School,303,0,0,0,0,0,303,0,0
+8570,Blessed Sacrament School,0,0,0,0,0,0,0,0,0
+8584,Elk Meadows School,580,0,0,0,0,0,580,0,0
+8658,Glacier Hills Elementary,626,0,0,0,0,0,626,0,0
+8678,Welby School,701,0,0,0,0,0,701,0,0
+8687,Grace Lutheran SchoolGrace Lutheran School,0,0,0,0,0,0,0,0,0
+8690,Waterford InstituteWillow Canyon SchoolWaterford SchoolWaterford School,303,0,0,0,0,0,303,0,0
+8701,Diamond Ridge High SchoolCanyons Virtual Academy,0,0,185,0,0,0,0,0,185
+8730,West Ridge Academy,0,0,0,0,0,0,0,0,0
+8749,Mount Jordan Middle,0,750,0,0,0,0,0,750,0
+8771,Special Ed PreschoolCanyons Online,0,0,0,0,0,0,0,0,0
+8868,Pine Ridge Academy,0,0,0,0,0,0,0,0,0
+8870,Hawthorn Academy,0,0,0,0,0,0,0,0,0
+8871,Jordan Ridge School,637,0,0,0,0,0,637,0,0
+8878,Mountain Heights Academy,0,0,0,0,0,0,0,0,0
+8907,Canyons Technical Education CenterEntrada,0,0,40,0,0,0,0,0,40
+8927,Quail Hollow School,366,0,0,0,0,0,366,0,0
+8957,Silver Mesa School,553,0,0,0,0,0,553,0,0
+8977,Jordan Hills School,631,0,0,0,0,0,631,0,0
+9059,Sandy School,490,0,0,0,0,0,490,0,0
+9100,Riverside School,591,0,0,0,0,0,591,0,0
+9107,Copper Canyon School,497,0,0,0,0,0,497,0,0
+9127,Copper Hills Youth Center,0,0,0,0,0,0,0,0,0
+9131,Antelope Canyon Elementary,592,0,0,0,0,0,592,0,0
+9133,Brookwood School,359,0,0,0,0,0,359,0,0
+9145,Copper Hills High,0,0,2845,0,0,0,0,0,2845
+9167,Westvale School,462,0,0,0,0,0,462,0,0
+9260,Oakcrest School,694,0,0,0,0,0,694,0,0
+9311,Peruvian Park School,560,0,0,0,0,0,560,0,0
+9369,Sunset Ridge Middle,0,1383,0,0,0,0,0,1383,0
+9373,South Valley School,0,0,165,0,0,0,0,0,165
+9384,East Sandy School,364,0,0,0,0,0,364,0,0
+9504,Oakdale School,340,0,0,0,0,0,340,0,0
+9508,Fox Hollow School,872,0,0,0,0,0,872,0,0
+9541,West Hills Middle,0,1170,0,0,0,0,0,1170,0
+9583,Midvale School,630,0,0,0,0,0,630,0,0
+9584,Midvale Middle,0,805,0,0,0,0,0,805,0
+9607,Ascent Academies of Utah West Jordan,0,0,0,547,215,0,547,215,0
+9611,Hayden Peak School,723,0,0,0,0,0,723,0,0
+9615,Terra Linda SchoolColumbia School,1073,0,0,0,0,0,1073,0,0
+9626,Union Middle,0,913,0,0,0,0,0,913,0
+9747,Midvalley School,606,0,0,0,0,0,606,0,0
+9811,Jordan Valley School,30,22,27,0,0,0,30,22,27
+9834,Butler Middle,0,914,0,0,0,0,0,914,0
+9897,Ridgecrest School,492,0,0,0,0,0,492,0,0
+9904,Utah Autism Academy,0,0,0,0,0,0,0,0,0
+9920,Westland School,596,0,0,0,0,0,596,0,0
+9931,ABC Great Beginnings - West Jordan,0,0,0,0,0,0,0,0,0
+9951,Oquirrh School,525,0,0,0,0,0,525,0,0
+9989,Butler School,600,0,0,0,0,0,600,0,0
+9997,Mountain Shadows School,596,0,0,0,0,0,596,0,0
+10004,Majestic SchoolWest Jordan Middle,320,1001,0,0,0,0,320,1001,0
+10009,Heartland School,403,0,0,0,0,0,403,0,0
+10044,Smart Kids West Jordan,0,0,0,0,0,0,0,0,0
+10060,East Midvale School,479,0,0,0,0,0,479,0,0
+10103,The School of Autistic Healing,0,0,0,0,0,0,0,0,0
+10120,Children's Christian School,0,0,0,0,0,0,0,0,0
+10137,Navigator Pointe Academy,0,0,0,332,43,0,332,43,0
+10342,Jim Bridger School,298,0,0,0,0,0,298,0,0
+10382,Longview School,323,0,0,0,0,0,323,0,0
+10393,Diamond Ridge School,483,0,0,0,0,0,483,0,0
+10422,Falcon Ridge School,674,0,0,0,0,0,674,0,0
+10454,Wonderbloom,0,0,0,0,0,0,0,0,0
+10468,Bennion Jr High,0,1023,0,0,0,0,0,1023,0
+10483,Bennion School,408,0,0,0,0,0,408,0,0
+10486,Fox Hills School,553,0,0,0,0,0,553,0,0
+10493,Kids World,0,0,0,0,0,0,0,0,0
+10518,Liberty School,244,0,0,0,0,0,244,0,0
+10521,Grant School,322,0,0,0,0,0,322,0,0
+10533,Woodstock School,584,0,0,0,0,0,584,0,0
+10550,Calvin S. Smith School,495,0,0,0,0,0,495,0,0
+10583,Cottonwood HighAcademy for Math Engineering & Science,0,0,1453,0,0,458,0,0,1911
+10591,Mcmillan School,417,0,0,0,0,0,417,0,0
+10617,Thomas Jefferson Jr High,0,917,0,0,0,0,0,917,0
+10636,La Europa Academy,0,0,0,0,0,0,0,0,0
+10640,Viewmont School,433,0,0,0,0,0,433,0,0
+10662,Thomas W. Bacchus School,315,0,0,0,0,0,315,0,0
+10671,Riverview Jr High,0,619,0,0,0,0,0,619,0
+10672,Mount Vernon AcademyChrist Lutheran ElemMount Vernon Academy,0,0,0,0,0,0,0,0,0
+10721,South Kearns School,480,0,0,0,0,0,480,0,0
+10767,Entheos Academy,0,0,0,0,0,0,0,0,0
+10805,St. Francis Xavier Regional Sch,0,0,0,0,0,0,0,0,0
+10847,Murray High,0,0,1360,0,0,0,0,0,1360
+10855,Hillcrest Jr High,0,698,0,0,0,0,0,698,0
+10896,Building Blocks of Children's Service Society,0,0,0,0,0,0,0,0,0
+10913,Kearns Jr High,0,731,0,0,0,0,0,731,0
+10926,Cottonwood School,340,0,0,0,0,0,340,0,0
+10938,Horizon School,669,0,0,0,0,0,669,0,0
+10952,Plymouth SchoolTaylorsville HighHartvigsen School,547,28,2699,0,0,0,547,28,2699
+10964,Smart Kids Kearns,0,0,0,0,0,0,0,0,0
+10990,Parkside School,454,0,0,0,0,0,454,0,0
+11001,St. Vincent de Paul Elementary,0,0,0,0,0,0,0,0,0
+11011,Saint Sophia School,0,0,0,0,0,0,0,0,0
+11016,David Gourley School,385,0,0,0,0,0,385,0,0
+11018,West Kearns School,507,0,0,0,0,0,507,0,0
+11023,Arcadia School,399,0,0,0,0,0,399,0,0
+11044,Vista School,509,0,0,0,0,0,509,0,0
+11089,Wasatch Waldorf Charter School,0,0,0,511,117,0,511,117,0
+11095,Silver Hills School,380,0,0,0,0,0,380,0,0
+11103,Lit'L Scholars Taylorsville IncLittle Orchard Learning Center Taylorsville,0,0,0,0,0,0,0,0,0
+11230,Learning Tree East,0,0,0,0,0,0,0,0,0
+11237,Utah Virtual Academy,0,0,0,0,0,0,0,0,0
+11275,John F. Kennedy Jr High,0,774,0,0,0,0,0,774,0
+11352,Eisenhower Jr High,0,1039,0,0,0,0,0,1039,0
+11360,Oakridge School,279,0,0,0,0,0,279,0,0
+11371,Churchill Jr High,0,521,0,0,0,0,0,521,0
+11383,Howard R. Driggs School,437,0,0,0,0,0,437,0,0
+11390,James E. Moss School,505,0,0,0,0,0,505,0,0
+11399,YMCA of Northern Utah - Salt Lake CountyJohn C. Fremont School,326,0,0,0,0,0,326,0,0
+11416,Hillside School,437,0,0,0,0,0,437,0,0
+11429,Taylorsville School,364,0,0,0,0,0,364,0,0
+11458,Crestview School,467,0,0,0,0,0,467,0,0
+11461,Hunter High,0,0,2490,0,0,0,0,0,2490
+11493,Morningside School,566,0,0,0,0,0,566,0,0
+11552,Sunshine Academy West Valley City,0,0,0,0,0,0,0,0,0
+11578,Pioneer School,399,0,0,0,0,0,399,0,0
+11606,Olympus High,0,0,2156,0,0,0,0,0,2156
+11629,Ascent Academies of Utah - West Valley,0,0,0,426,0,0,426,0,0
+11635,William Penn School,615,0,0,0,0,0,615,0,0
+11682,Hunter Jr High,0,668,0,0,0,0,0,668,0
+11704,Jackling School,354,0,0,0,0,0,354,0,0
+11729,Upland Terrace School,444,0,0,0,0,0,444,0,0
+11744,Copper Hills School,403,0,0,0,0,0,403,0,0
+11750,Granite Connection High,18,80,448,0,0,0,18,80,448
+11752,Wasatch Jr High,0,830,0,0,0,0,0,830,0
+11784,Youth Educational Support SchoolLincoln SchoolLincoln SchoolUtah International Charter School,1027,0,13,0,89,156,1027,89,169
+11830,Scott M Matheson Jr High,0,1052,0,0,0,0,0,1052,0
+11832,Sunshine Academy Magna,0,0,0,0,0,0,0,0,0
+11843,Douglas T. Orchard School,411,0,0,0,0,0,411,0,0
+11848,Whittier School,435,0,0,0,0,0,435,0,0
+11854,Granger High,0,0,3267,0,0,0,0,0,3267
+11863,Skyline High,0,0,2176,0,0,0,0,0,2176
+11886,Evergreen Jr High,0,613,0,0,0,0,0,613,0
+11936,Reid School,0,0,0,0,0,0,0,0,0
+11965,Esperanza School,0,0,0,576,0,0,576,0,0
+11985,Olene Walker Elementary,674,0,0,0,0,0,674,0,0
+11991,Lake Ridge School,410,0,0,0,0,0,410,0,0
+12002,Jean Massieu School for the DeafBlind Region 2,0,0,0,0,0,0,0,0,0
+12033,Eastwood School,271,0,0,0,0,0,271,0,0
+12071,Hillsdale School,511,0,0,0,0,0,511,0,0
+12072,West Lake Jr High,0,725,0,0,0,0,0,725,0
+12089,West Valley School,723,0,0,0,0,0,723,0,0
+12127,Gearld Wright School,484,0,0,0,0,0,484,0,0
+12130,Granite Park Jr High,0,800,0,0,0,0,0,800,0
+12140,Stansbury School,542,0,0,0,0,0,542,0,0
+12173,Canyon Rim Academy,0,0,0,524,0,0,524,0,0
+12190,Rosecrest School,300,0,0,0,0,0,300,0,0
+12218,Monticello Academy,0,0,0,548,142,0,548,142,0
+12227,Highland Park School,478,0,0,0,0,0,478,0,0
+12229,Pleasant Green School,448,0,0,0,0,0,448,0,0
+12274,Nibley Park School,412,72,0,0,0,0,412,72,0
+12292,Granite Preschool ServicesHeadstart Preschool Special EducationGranite Technical Institute,0,0,95,0,0,0,0,0,95
+12312,Vanguard AcademyEndeavor HallAmeris Academy Inc.,0,0,0,257,361,262,257,361,262
+12319,Wallace Stegner Academy West Valley,0,0,0,567,135,0,567,135,0
+12329,Redwood SchoolEnsign Learning Center,468,0,0,0,0,0,468,0,0
+12396,Lori M. Marino Inc. DBA Lit'l ScholarsSeps Learning Center,0,0,0,0,0,0,0,0,0
+12399,Redeemer Lutheran,0,0,0,0,0,0,0,0,0
+12404,American Preparatory Academy - The School for New Americans,0,0,0,643,0,0,643,0,0
+12420,Kearns - St. Ann,0,0,0,0,0,0,0,0,0
+12463,Dilworth School,432,0,0,0,0,0,432,0,0
+12561,Clayton Middle,0,567,0,0,0,0,0,567,0
+12571,Mountain View SchoolGlendale Middle,592,680,0,0,0,0,592,680,0
+12589,Emerson School,396,0,0,0,0,0,396,0,0
+12599,Indian Hills School,453,0,0,0,0,0,453,0,0
+12608,Salt Lake Community Action Head Start,0,0,0,0,0,0,0,0,0
+12610,Uintah School,464,0,0,0,0,0,464,0,0
+12614,Realms of Inquiry,0,0,0,0,0,0,0,0,0
+12632,Liberty School,417,0,0,0,0,0,417,0,0
+12640,Bonneville School,414,0,0,0,0,0,414,0,0
+12719,Parkview School,314,0,0,0,0,0,314,0,0
+12745,Salt Lake Arts Academy,0,0,0,0,415,0,0,415,0
+12755,Rowland Hall-St Mark's (Middle)Rowland Hall-St Mark's (Sec),0,0,0,0,0,0,0,0,0
+12757,East High,0,0,1771,0,0,0,0,0,1771
+12785,Smart Start Learning Center – Clearfield,0,0,0,0,0,0,0,0,0
+12800,Our Lady of LourdesJudge Memorial Catholic High,0,0,0,0,0,0,0,0,0
+12801,Mcgillis School,0,0,0,0,0,0,0,0,0
+12818,Centro de la Familia de Utah ClintonCentro de la Familia de Utah CenterfieldCentro de la Familia de Utah HoldenCentro de la Familia de Utah Mount Pleasant,0,0,0,0,0,0,0,0,0
+12833,Neighborhood House,0,0,0,0,0,0,0,0,0
+12854,Franklin School,312,0,0,0,0,0,312,0,0
+12915,Salt Lake Center for Science Education Bryant,0,360,0,0,0,0,0,360,0
+12928,Utah Catholic Schools,0,0,0,0,0,0,0,0,0
+12932,Wasatch School,388,0,0,0,0,0,388,0,0
+12983,Madeleine Choir School,0,0,0,0,0,0,0,0,0
+13002,Open Classroom,0,0,0,235,44,0,235,44,0
+13068,American Heritage School Salt Lake Campus,0,0,0,0,0,0,0,0,0
+13128,Washington School,356,0,0,0,0,0,356,0,0
+13188,Ensign School,361,0,0,0,0,0,361,0,0
+13205,Backman School,381,0,0,0,0,0,381,0,0
+13248,Escalante SchoolPacific Heritage Academy,327,0,0,247,81,0,574,81,0
+13254,Salt Lake Head Start,0,0,0,0,0,0,0,0,0
+13255,Newman SchoolSalt Lake Center for Science Education,370,0,0,0,0,366,370,0,366
+13260,North Star School,318,0,0,0,0,0,318,0,0
+13265,Guadalupe School,0,0,0,292,0,0,292,0,0
+13332,Legacy Preparatory Academy,0,0,0,764,256,0,764,256,0
+13360,Adelaide School,349,0,0,0,0,0,349,0,0
+13374,CHOICE,0,0,0,0,0,0,0,0,0
+13377,Wasatch Peak Academy,0,0,0,520,0,0,520,0,0
+13383,Spectrum Academy,0,0,0,0,0,0,0,0,0
+13452,Boulton School,465,0,0,0,0,0,465,0,0
+13464,South Davis Jr High,0,954,0,0,0,0,0,954,0
+13486,Muir School,596,0,0,0,0,0,596,0,0
+13534,Woods Cross High,0,0,1555,0,0,0,0,0,1555
+13556,Odyssey School,548,0,0,0,0,0,548,0,0
+13586,St. Olaf Catholic Elem.,0,0,0,0,0,0,0,0,0
+13588,Bountiful School,473,0,0,0,0,0,473,0,0
+13599,Mueller Park Jr High,0,1092,0,0,0,0,0,1092,0
+13622,Valley View School,425,0,0,0,0,0,425,0,0
+13668,Woods Cross School,457,0,0,0,0,0,457,0,0
+13669,Benchmark School,0,0,0,0,0,0,0,0,0
+13671,Millcreek Jr High,0,674,0,0,0,0,0,674,0
+13681,Oak Hills School,509,0,0,0,0,0,509,0,0
+13703,Holbrook School,431,0,0,0,0,0,431,0,0
+13739,Bountiful Jr High,0,630,0,0,0,0,0,630,0
+13743,Meadowbrook School,312,0,0,0,0,0,312,0,0
+13757,Tolman School,338,0,0,0,0,0,338,0,0
+13772,Viewmont High,0,0,1568,0,0,0,0,0,1568
+13814,Centerville Jr High,0,971,0,0,0,0,0,971,0
+13857,Centerville School,386,0,0,0,0,0,386,0,0
+13909,Stewart School,522,0,0,0,0,0,522,0,0
+13954,Reading School,414,0,0,0,0,0,414,0,0
+14020,Canyon Creek School,721,0,0,0,0,0,721,0,0
+14054,Farmington School,444,0,0,0,0,0,444,0,0
+14056,Vista Education CampusStar Transition,0,0,267,0,0,0,0,0,267
+14058,Farmington Jr High,0,1266,0,0,0,0,0,1266,0
+14074,Eagle Bay School,454,0,0,0,0,0,454,0,0
+14155,Knowlton School,614,0,0,0,0,0,614,0,0
+14180,Endeavour School,644,0,0,0,0,0,644,0,0
+14225,Windridge School,484,0,0,0,0,0,484,0,0
+14241,Jefferson Academy,0,0,0,505,0,0,505,0,0
+14275,Snow Horse SchoolCentennial Jr High,488,957,0,0,0,0,488,957,0
+14311,Columbia SchoolKaysville Jr High,555,858,0,0,0,0,555,858,0
+14312,Utah Career Path High School,0,0,0,0,0,148,0,0,148
+14326,Renaissance Academy,0,10,17,0,0,0,0,10,17
+14329,Mountain HighFamily Enrichment CenterDavis High,0,0,2488,0,0,0,0,0,2488
+14360,Kay's Creek School,714,0,0,0,0,0,714,0,0
+14394,Kaysville School,483,0,0,0,0,0,483,0,0
+14450,H C Burton School,599,0,0,0,0,0,599,0,0
+14495,Shoreline Junior High,0,1226,0,0,0,0,0,1226,0
+14503,Heritage School,622,0,0,0,0,0,622,0,0
+14560,Creekside SchoolFairfield Jr High,542,972,0,0,0,0,542,972,0
+14598,Kid's First,0,0,0,0,0,0,0,0,0
+14601,Morgan School,587,0,0,0,0,0,587,0,0
+14656,Sunburst School,869,0,0,0,0,0,869,0,0
+14663,Layton School,520,0,0,0,0,0,520,0,0
+14727,Sand Springs School,682,0,0,0,0,0,682,0,0
+14739,Whitesides School,361,0,0,0,0,0,361,0,0
+14762,Legacy Jr High,0,1125,0,0,0,0,0,1125,0
+14801,North Davis Preparatory Academy,0,0,0,705,262,0,705,262,0
+14809,Crestview SchoolCentral Davis Jr High,291,879,0,0,0,0,291,879,0
+14879,Ellison Park School,565,0,0,0,0,0,565,0,0
+14921,Bluff Ridge School,914,0,0,0,0,0,914,0,0
+14981,East Layton School,507,0,0,0,0,0,507,0,0
+15072,King School,442,0,0,0,0,0,442,0,0
+15103,Vae View School,325,0,0,0,0,0,325,0,0
+15117,Fernwood Academy,0,0,0,0,0,0,0,0,0
+15161,Antelope School,602,0,0,0,0,0,602,0,0
+15167,Elevations Academy,0,0,0,0,0,0,0,0,0
+15171,Buffalo Point School,600,0,0,0,0,0,600,0,0
+15219,Cook School,638,0,0,0,0,0,638,0,0
+15258,Adams School,644,0,0,0,0,0,644,0,0
+15266,Dorius Academy,0,0,0,0,0,0,0,0,0
+15304,Northridge High,0,0,1991,0,0,0,0,0,1991
+15408,Oasis Monessori Schools,0,0,0,0,0,0,0,0,0
+15439,Mountain View School,695,0,0,0,0,0,695,0,0
+15483,Hill Field School,447,0,0,0,0,0,447,0,0
+15646,West Point School,603,0,0,0,0,0,603,0,0
+15658,Monticello Academy West Point,0,0,0,442,0,0,442,0,0
+15659,West Point Jr High,0,1556,0,0,0,0,0,1556,0
+15706,Holt School,427,0,0,0,0,0,427,0,0
+15712,Lakeside School,863,0,0,0,0,0,863,0,0
+15746,Highmark Charter School,0,0,0,370,298,0,370,298,0
+15806,South Weber School,741,0,0,0,0,0,741,0,0
+15902,Clinton School,465,0,0,0,0,0,465,0,0
+15964,West Clinton School,594,0,0,0,0,0,594,0,0
+15980,Voyage Academy,0,0,0,529,0,0,529,0,0
+16148,Uintah School,629,0,0,0,0,0,629,0,0
+16271,Municipal School,318,0,0,0,0,0,318,0,0
+16318,Freedom School,784,0,0,0,0,0,784,0,0
+16407,Hooper School,516,0,0,0,0,0,516,0,0
+16435,Roy School,405,0,0,0,0,0,405,0,0
+16439,Roy Jr High,0,961,0,0,0,0,0,961,0
+16456,H Guy Child SchoolSouth Ogden Jr High,380,801,0,0,0,0,380,801,0
+16477,Utah Military Academy,0,0,0,0,351,246,0,351,246
+16483,T.H. Bell Jr High,0,612,0,0,0,0,0,612,0
+16484,Discovery Clubhouse - Washington Terrace,0,0,0,0,0,0,0,0,0
+16541,Roosevelt School,374,0,0,0,0,0,374,0,0
+16586,Good Foundations Academy,0,0,0,443,0,0,443,0,0
+16589,Lakeview School,373,0,0,0,0,0,373,0,0
+16615,Bonneville PreschoolBonneville High,0,0,1382,0,0,0,0,0,1382
+16675,Midland School,502,0,0,0,0,0,502,0,0
+16698,Shadow Valley School,571,0,0,0,0,0,571,0,0
+16713,Country View School,526,0,0,0,0,0,526,0,0
+16755,Rocky Mountain Jr High,0,797,0,0,0,0,0,797,0
+16766,Washington Terrace School,432,0,0,0,0,0,432,0,0
+16772,Valley View School,286,0,0,0,0,0,286,0,0
+16810,Burch Creek School,579,0,0,0,0,0,579,0,0
+16839,West Haven School,488,0,0,0,0,0,488,0,0
+16851,Riverdale School,383,0,0,0,0,0,383,0,0
+16899,The Sammy CenterEverest Academy - Children Classic WeberRogue Behavior ServicesEverest Academy - Children Classic Ogden,0,0,0,0,0,0,0,0,0
+16976,Quest Academy,0,0,0,742,268,0,742,268,0
+16986,Progressive Preschool & Child Care CenterEverest Academy,0,0,0,0,0,0,0,0,0
+17041,Wasatch School,357,0,0,0,0,0,357,0,0
+17087,Liberty Elementary School,537,0,0,0,0,0,537,0,0
+17146,Weber Online K-6Haven Bay ElementaryWeber Online 9-12Weber Online 7-8,475,0,0,0,0,0,475,0,0
+17162,St. Joseph Catholic Elem.,0,0,0,0,0,0,0,0,0
+17170,Kanesville School,722,0,0,0,0,0,722,0,0
+17182,Ogden High,0,0,1133,0,0,0,0,0,1133
+17195,George Washington High,0,12,271,0,0,0,0,12,271
+17233,Polk School,522,0,0,0,0,0,522,0,0
+17308,YMCA of Northern Utah - Weber County,0,0,0,0,0,0,0,0,0
+17392,New Bridge School,666,0,0,0,0,0,666,0,0
+17442,Ogden PreschoolSpec. Educ. ATCContracted Special EducationOgden Online SecondaryOgden Online Elementary,0,0,0,0,0,0,0,0,0
+17447,Mountain View Jr High,0,799,0,0,0,0,0,799,0
+17454,West Field High School,0,0,1258,0,0,0,0,0,1258
+17517,Oakgrove School,0,0,0,0,0,0,0,0,0
+17525,Mound Fort Junior High,0,563,0,0,0,0,0,563,0
+17531,Ogden Preparatory AcademyOgden Preparatory Academy - Preschool,0,0,0,696,291,0,696,291,0
+17574,Canyon View SchoolCanyon View Preschool,16,0,0,0,0,0,16,0,0
+17613,Ben Lomond High,0,0,1186,0,0,0,0,0,1186
+17623,Children's ClassicChildrens Classic - Wasatch Drive,0,0,0,0,0,0,0,0,0
+17669,West Weber School,632,0,0,0,0,0,632,0,0
+17675,Highland Junior High,0,650,0,0,0,0,0,650,0
+17683,Leadership Learning Academy - Ogden,0,0,0,385,0,0,385,0,0
+17685,Bonneville School,438,0,0,0,0,0,438,0,0
+17691,Little Seed Evolution Child Care Center LLC,0,0,0,0,0,0,0,0,0
+17693,Heritage School,625,0,0,0,0,0,625,0,0
+17723,Ogden Technical High School,0,0,0,0,0,0,0,0,0
+17737,Pioneer School,394,0,0,0,0,0,394,0,0
+17743,Imagination Time LLC,0,0,0,0,0,0,0,0,0
+17858,Lincoln School,462,0,0,0,0,0,462,0,0
+17962,Fremont High,0,0,1443,0,0,0,0,0,1443
+17980,Green Acres School,497,0,0,0,0,0,497,0,0
+17991,Orion Jr High,0,1004,0,0,0,0,0,1004,0
+18088,Plain City School,618,0,0,0,0,0,618,0,0
+18120,Wahlquist Jr High,0,1034,0,0,0,0,0,1034,0
+18151,North Ogden School,531,0,0,0,0,0,531,0,0
+18224,North Ogden Jr High,0,863,0,0,0,0,0,863,0
+18247,Bates School,690,0,0,0,0,0,690,0,0
+18305,Orchard Springs,448,0,0,0,0,0,448,0,0
+18333,Lomond View School,429,0,0,0,0,0,429,0,0
+18389,Weber High,0,0,2002,0,0,0,0,0,2002
+18551,Promontory School of Expeditionary Learning,0,0,0,367,78,0,367,78,0
+18565,Three Mile Creek School,530,0,0,0,0,0,530,0,0
+18621,UTBS Academy - Brigham City,0,0,0,0,0,0,0,0,0
+18671,Adele C. Young Intermediate,0,1009,0,0,0,0,0,1009,0
+18756,Box Elder High,0,0,1639,0,0,0,0,0,1639
+18766,Sunrise High School,0,0,161,0,0,0,0,0,161
+18790,Triumph Academy,0,0,0,0,0,0,0,0,0
+18794,Box Elder Middle,0,1127,0,0,0,0,0,1127,0
+18841,Golden Spike Elementary,774,0,0,0,0,0,774,0,0
+18926,Discovery School,448,0,0,0,0,0,448,0,0
+19363,Providence Hall,0,0,0,1047,559,434,1047,559,434
+19402,Rose Creek School,649,0,0,0,0,0,649,0,0
+19427,Oak Leaf Elementary,566,0,0,0,0,0,566,0,0
+19428,Hawthorn Academy South Jordan,0,0,0,621,0,0,621,0,0
+19435,Crescent SchoolLife Skills Academy,468,0,63,0,0,0,468,0,63
+19464,Albion Middle,0,943,0,0,0,0,0,943,0
+19468,Learning Tree SouthwestJoel P. Jensen MiddleWest Jordan High,0,765,1760,0,0,0,0,765,1760
+19471,Brighton High,0,0,2437,0,0,0,0,0,2437
+19509,Oakwood School,542,0,0,0,0,0,542,0,0
+19512,Bonneville Jr High,0,637,0,0,0,0,0,637,0
+19529,Mount Olympus Preparatory,0,0,0,0,0,0,0,0,0
+19549,Entheos Academy Magna,0,0,0,386,89,0,386,89,0
+19569,Elk Run Elementary,675,0,0,0,0,0,675,0,0
+19608,Foxboro School,485,0,0,0,0,0,485,0,0
+19633,Layton Christian AcademyLayton Christian Academy,0,0,0,0,0,0,0,0,0
+19637,Island View Elementary,819,0,0,0,0,0,819,0,0
+19642,Weber Basin High (Private),0,0,0,0,0,0,0,0,0
+19664,Sand Ridge Jr HighRoy High,0,697,1660,0,0,0,0,697,1660
+19690,St. Joseph High,0,0,0,0,0,0,0,0,0
+19698,North Region BlindKenneth Burdett SchoolUSD OnlineEast Ridge Elementary School,717,0,0,0,0,0,717,0,0
+19722,Silver Ridge Elementary,602,0,0,0,0,0,602,0,0
+19764,Catalyst Preparatory Academy,0,0,0,0,0,0,0,0,0
+20617,Mountain Point Elementary,831,0,0,0,0,0,831,0,0
+20622,Summit Academy - Independence,0,0,0,607,223,0,607,223,0
+20651,Summit Academy High School,0,0,0,0,0,599,0,0,599
+20659,Hidden Valley Middle,0,937,0,0,0,0,0,937,0
+20743,American Preparatory Academy,0,0,0,0,0,0,0,0,0
+20746,Silver Crest School,879,0,0,0,0,0,879,0,0
+20759,Jordan Academy for Technology & Careers South,0,0,0,0,0,0,0,0,0
+20784,Autism & Behavioral Intervention,0,0,0,0,0,0,0,0,0
+20786,Draper Academy,0,0,0,0,0,0,0,0,0
+20787,A to Z Building Blocks Draper,0,0,0,0,0,0,0,0,0
+20797,Oxford Learning SourceOxford Academy,0,0,0,0,0,0,0,0,0
+20807,KoolMinds,0,0,0,0,0,0,0,0,0
+20808,Autism Solutions,0,0,0,0,0,0,0,0,0
+20861,Stillwater Academy,0,0,0,0,0,0,0,0,0
+20966,Jordan High,0,0,1820,0,0,0,0,0,1820
+20969,Beehive Science & Technology Academy,0,0,0,0,302,124,0,302,124
+21006,KoolMinds East Sandy,0,0,0,0,0,0,0,0,0
+21033,Itineris Early College High,0,0,0,0,0,366,0,0,366
+21055,Autism Solutions Academy West Jordan,0,0,0,0,0,0,0,0,0
+21067,Happy Zone Child Care LLC,0,0,0,0,0,0,0,0,0
+21136,Hillcrest High,0,0,2425,0,0,0,0,0,2425
+21172,Bella Vista School,219,0,0,0,0,0,219,0,0
+21199,Intermountain ChristianIntermountain Christian,0,0,0,0,0,0,0,0,0
+21214,Early Childhood Center,0,0,0,0,0,0,0,0,0
+21233,ABC Great Beginnings Murray,0,0,0,0,0,0,0,0,0
+21241,Wasatch Canyons at PCH,0,0,0,0,0,0,0,0,0
+21248,Beehive School,454,0,0,0,0,0,454,0,0
+21250,Kearns High,0,0,2321,0,0,0,0,0,2321
+21257,John Locke Academy,0,0,0,0,0,0,0,0,0
+21276,Murray Adult Transition,0,0,0,0,0,0,0,0,0
+21281,Smart Kids RedwoodSmart Kids Taylorsville,0,0,0,0,0,0,0,0,0
+21304,Realms of Inquiry,0,0,0,0,0,0,0,0,0
+21326,Olympus Jr High,0,807,0,0,0,0,0,807,0
+21343,Tilley Time Child Care,0,0,0,0,0,0,0,0,0
+21397,Smart Kids Salt Lake,0,0,0,0,0,0,0,0,0
+21543,Learning Tree West,0,0,0,0,0,0,0,0,0
+21566,Roots Charter High School,0,0,0,0,0,224,0,0,224
+21615,East Hollywood High,0,0,0,0,0,325,0,0,325
+21617,Mana Academy Charter School,0,0,0,195,70,36,195,70,36
+21706,Horizonte Instruction & Training CenterSky View Academy,0,0,254,0,0,0,0,0,254
+21738,Dual Immersion Academy,0,0,0,352,82,0,352,82,0
+21743,Wallace Stegner Academy Kearns K-12Wallace Stegner Academy,0,0,0,1057,407,0,1057,407,0
+21811,University Academy,0,0,0,0,0,0,0,0,0
+21843,The American Academy,0,0,0,0,0,0,0,0,0
+21943,West High,0,795,1717,0,0,0,0,795,1717
+22011,Orchard School,578,0,0,0,0,0,578,0,0
+22063,Utah Connections Academy,0,0,0,0,0,0,0,0,0
+22084,Taylor School,332,0,0,0,0,0,332,0,0
+22089,Matt's Place School,0,0,0,0,0,0,0,0,0
+22119,Davis Connect K-6,105,0,0,0,0,0,105,0,0
+22168,Catalyst Center,0,0,0,0,0,0,0,0,0
+22178,Time For Families - Davis County,0,0,0,0,0,0,0,0,0
+22203,Layton High,0,0,2229,0,0,0,0,0,2229
+22304,Syracuse Arts Academy,0,0,0,0,0,0,0,0,0
+22318,Clearfield Job CorpsGreat Basin High,0,0,0,0,0,0,0,0,0
+22325,North Layton Jr High,0,960,0,0,0,0,0,960,0
+22333,Davis Connect 7-12,0,95,167,0,0,0,0,95,167
+22336,Syracuse Jr High,0,1218,0,0,0,0,0,1218,0
+22338,Syracuse School,862,0,0,0,0,0,862,0,0
+22343,Leadership Academy of Utah,0,0,0,0,0,0,0,0,0
+22352,Autism Solutions Academy Clearfield,0,0,0,0,0,0,0,0,0
+22370,Leadership Learning Academy,0,0,0,522,0,0,522,0,0
+22373,Clearfield High,0,0,2040,0,0,0,0,0,2040
+22375,South Clearfield SchoolNorth Davis Jr High,690,941,0,0,0,0,690,941,0
+22399,Syracuse High,0,0,2607,0,0,0,0,0,2607
+22403,Let Them Be Kids Childcare CenterLet Them Be Kids Preschool,0,0,0,0,0,0,0,0,0
+22405,Syracuse Arts Academy - North,0,0,0,730,0,0,730,0,0
+22423,Wasatch School,430,0,0,0,0,0,430,0,0
+22461,Doxey School,341,0,0,0,0,0,341,0,0
+22479,Sunset Jr High,0,927,0,0,0,0,0,927,0
+22517,Thrive Learning Center,0,0,0,0,0,0,0,0,0
+22539,Angie's Kinder Academy,0,0,0,0,0,0,0,0,0
+22542,Providence Montessori Academy,0,0,0,0,0,0,0,0,0
+22561,Weber HQ Preschool,0,0,0,0,0,0,0,0,0
+22569,Wasatch Canyons Academy at Mckay Dee,0,0,0,0,0,0,0,0,0
+22576,Bridge Elementary School,0,0,0,558,0,0,558,0,0
+22579,UTBS Academy - Roy,0,0,0,0,0,0,0,0,0
+22623,Weber State University Charter AcademyNo. UT. Acad. of Math Engineering & Science - Ogden,0,0,0,33,0,0,33,0,0
+22634,Evergreen Montessori Academy,0,0,0,0,0,0,0,0,0
+22654,North Park School,504,0,0,0,0,0,504,0,0
+22660,Wasatch Christian School,0,0,0,0,0,0,0,0,0
+22663,ABC Great Beginnings - South Ogden,0,0,0,0,0,0,0,0,0
+22737,Odyssey School,505,0,0,0,0,0,505,0,0
+22743,Mount Ogden Junior High,0,806,0,0,0,0,0,806,0
+22744,Discovery Clubhouse - Harrison,0,0,0,0,0,0,0,0,0
+22757,Discovery Clubhouse - Riverdale,0,0,0,0,0,0,0,0,0
+22866,Deamude Adventist Christian School,0,0,0,0,0,0,0,0,0
+22882,Davinci Academy,0,0,0,735,313,230,735,313,230
+22904,Discovery Clubhouse - Ogden,0,0,0,0,0,0,0,0,0
+22911,Weber Innovation High SchoolTwo Rivers HighHorizon Academy,0,70,549,0,0,0,0,70,549
+22963,Malan's Peak Secondary,0,0,24,0,0,0,0,0,24
+22972,Venture Academy,0,0,0,327,213,261,327,213,261
+22978,Greenwood Charter School,0,0,0,297,57,0,297,57,0
+23006,Maria Montessori Academy,0,0,0,317,85,0,317,85,0
+23040,Farr West School,704,0,0,0,0,0,704,0,0
+23047,Willard School,215,0,0,0,0,0,215,0,0
+23081,Lake View School,573,0,0,0,0,0,573,0,0
+23111,New Horizons Academy,0,0,0,0,0,0,0,0,0
+23178,Salt Lake Academy High School,0,0,0,0,0,397,0,0,397
+23202,Anthem Preparatory School,0,0,0,0,0,0,0,0,0
+23204,Dancing Moose Montessori River Park,0,0,0,0,0,0,0,0,0
+23206,Valley High SchoolRivers Edge School,0,13,349,0,0,0,0,13,349
+23210,Beehive Science & Technology Academy Elementary,0,0,0,435,0,0,435,0,0
+23211,Southpointe Adult HighJordan Academy for Technology and Careers - North,0,0,0,0,0,0,0,0,0
+23214,Rocky Peak Virtual SchoolKings Peak HighKelsey Peak Virtual Middle,229,133,316,0,0,0,229,133,316
+23229,UTBS Academy - Crossroads,0,0,0,0,0,0,0,0,0
+23235,Youth Village Academy,0,0,0,0,0,0,0,0,0
+23319,Highland High,0,0,1972,0,0,0,0,0,1972
+23323,Ascent Academies of Utah Farmington,0,0,0,299,86,0,299,86,0
+23324,Farmington High,0,0,2191,0,0,0,0,0,2191
+23340,No. UT. Acad. for Math Engineering & Science,0,0,0,0,0,672,0,0,672
+23353,Elizabeth Academy,0,0,0,0,0,0,0,0,0
+23373,Here We Grow Child Development Center,0,0,0,0,0,0,0,0,0
+23383,Copperview School,308,0,0,0,0,0,308,0,0
+23412,Northwest Middle,0,542,0,0,0,0,0,542,0
+23435,Philo T. Farnsworth School,409,0,0,0,0,0,409,0,0
+23486,Canyon View School,471,0,0,0,0,0,471,0,0
+23511,Elizabeth Academy Upper Campus,0,0,0,0,0,0,0,0,0
+23527,Whittier SchoolSalt Lake Technology CenterInnovations Early College High School,478,0,0,0,0,0,478,0,0
+23568,Dancing Moose Montessori,0,0,0,0,0,0,0,0,0
+23627,Meadowlark School,420,0,0,0,0,0,420,0,0
+23805,Edison School,417,0,0,0,0,0,417,0,0
+23859,Lolie Eccles Early Education Center,0,0,0,0,0,0,0,0,0
+23861,Salt Lake School for the Performing Arts,0,0,0,0,0,0,0,0,0
+23892,Rowland Hall-St Mark's (Elem),0,0,0,0,0,0,0,0,0
+23893,Carmen Pingree School,0,0,0,0,0,0,0,0,0
+23958,Jewish Community Center,0,0,0,0,0,0,0,0,0
+23969,Elk Ridge Middle,0,1152,0,0,0,0,0,1152,0
+24053,City Academy,0,0,0,0,47,46,0,47,46
+24064,Odyssey House School,0,0,0,0,0,0,0,0,0
+24142,Hillside MiddleBeacon Heights SchoolMontessori Community School,329,485,0,0,0,0,329,485,0
+24143,J E Cosgriff Memorial,0,0,0,0,0,0,0,0,0
+24158,Woodrow Wilson School,372,0,0,0,0,0,372,0,0
+24178,Rose Park School,334,0,0,0,0,0,334,0,0
+24235,Bountiful High,0,0,1545,0,0,0,0,0,1545
+24271,Academy Park School,323,0,0,0,0,0,323,0,0
+24276,Hunter School,429,0,0,0,0,0,429,0,0
+24299,Robert Frost School,304,0,0,0,0,0,304,0,0
+24302,Valley Jr High,0,548,0,0,0,0,0,548,0
+24308,Harry S. Truman School,272,0,0,0,0,0,272,0,0
+24342,Iqra Academy of UtahSmart Start Learning Center,0,0,0,0,0,0,0,0,0
+24343,Rolling Meadows School,418,0,0,0,0,0,418,0,0
+24364,Granger School,673,0,0,0,0,0,673,0,0
+24365,ABC Great Beginnings Redwood,0,0,0,0,0,0,0,0,0
+24422,American Preparatory Academy - Accelerated School,0,0,0,670,585,305,670,585,305
+24434,Monroe School,476,0,0,0,0,0,476,0,0
+24450,Valley Crest School,455,0,0,0,0,0,455,0,0
+24453,Neil Armstrong Academy,649,0,0,0,0,0,649,0,0
+24510,Butterfield Canyon School,704,0,0,0,0,0,704,0,0
+24530,Majestic School,713,0,0,0,0,0,713,0,0
+24533,Magna SchoolBrockbank Jr High,516,0,0,0,0,0,516,0,0
+24534,Cyprus High,0,0,2770,0,0,0,0,0,2770
+24549,Wasatch Intermountain AcademyWasatch Intermountain Academy,0,0,0,0,0,0,0,0,0
+24550,Autism Solutions Academy - Layton,0,0,0,0,0,0,0,0,0
+24558,West Bountiful School,642,0,0,0,0,0,642,0,0
+24571,Parkside School,407,0,0,0,0,0,407,0,0
+24574,Sunset School,354,0,0,0,0,0,354,0,0
+24635,Goshen School,304,0,0,0,0,0,304,0,0
+24676,Orchard Hills School,725,0,0,0,0,0,725,0,0
+24798,Centro de la Familia de Utah Genola,0,0,0,0,0,0,0,0,0
+24803,Santaquin School,576,0,0,0,0,0,576,0,0
+24814,C.S. Lewis Academy,0,0,0,224,0,0,224,0,0
+24870,Apple Valley School,675,0,0,0,0,0,675,0,0
+24974,Spring Lake School,507,0,0,0,0,0,507,0,0
+25102,Payson Jr HighPayson High,0,1144,1647,0,0,0,0,1144,1647
+25202,Wilson School,313,0,0,0,0,0,313,0,0
+25232,Park View School,331,0,0,0,0,0,331,0,0
+25263,American Preparatory Academy - Salem,0,0,0,441,129,0,441,129,0
+25293,Taylor School,394,0,0,0,0,0,394,0,0
+25316,Mt. Loafer School,591,0,0,0,0,0,591,0,0
+25375,Valley View Middle,0,964,0,0,0,0,0,964,0
+25392,Foothills School,603,0,0,0,0,0,603,0,0
+25410,Barnett School,478,0,0,0,0,0,478,0,0
+25434,Salem School,507,0,0,0,0,0,507,0,0
+25493,Salem Hills High,0,0,1600,0,0,0,0,0,1600
+25509,Salem Junior High,0,957,0,0,0,0,0,957,0
+25612,Spanish Oaks School,411,0,0,0,0,0,411,0,0
+25680,Canyon School,425,0,0,0,0,0,425,0,0
+25707,Lollipops Daycare - ProvoLollipops Daycare - West Jordan,0,0,0,0,0,0,0,0,0
+25725,East Meadows School,471,0,0,0,0,0,471,0,0
+25797,American Leadership Academy,0,0,0,844,397,351,844,397,351
+25827,New Haven,0,0,0,0,0,0,0,0,0
+25863,Spanish Fork Jr High,0,1073,0,0,0,0,0,1073,0
+25925,Larsen School,384,0,0,0,0,0,384,0,0
+25929,Landmark High,0,0,309,0,0,0,0,0,309
+25933,Riverview School,663,0,0,0,0,0,663,0,0
+26005,Park School,436,0,0,0,0,0,436,0,0
+26018,Sierra Bonita Elementary,568,0,0,0,0,0,568,0,0
+26021,Maple Mountain High,0,0,1898,0,0,0,0,0,1898
+26029,Diamond Fork Middle,0,1074,0,0,0,0,0,1074,0
+26094,Spanish Fork High,0,7,1634,0,0,0,0,7,1634
+26143,A to Z Building Blocks in Spanish Fork,0,0,0,0,0,0,0,0,0
+26163,Brockbank School,454,0,0,0,0,0,454,0,0
+26211,Maple Lake Academy,0,0,0,0,0,0,0,0,0
+26224,Discovery Ranch,0,0,0,0,0,0,0,0,0
+26243,Maple Ridge School,869,0,0,0,0,0,869,0,0
+26262,Maple Grove Middle,0,1196,0,0,0,0,0,1196,0
+26316,Mapleton School,590,0,0,0,0,0,590,0,0
+26354,Lollipops Daycare,0,0,0,0,0,0,0,0,0
+26387,Mapleton Junior High,0,1314,0,0,0,0,0,1314,0
+26443,Hobble Creek School,429,0,0,0,0,0,429,0,0
+26533,Sage Creek School,415,0,0,0,0,0,415,0,0
+26601,Spring Canyon Middle,0,1038,0,0,0,0,0,1038,0
+26648,Springville High,0,0,1664,0,0,0,0,0,1664
+26649,Brookside School,360,0,0,0,0,0,360,0,0
+26653,Cherry Creek School,406,0,0,0,0,0,406,0,0
+26663,Meadow Brook SchoolBlind South,656,0,0,0,0,0,656,0,0
+26704,Bridges Nebo Transition Center,0,0,90,0,0,0,0,0,90
+26715,Springville Jr High,0,1086,0,0,0,0,0,1086,0
+26757,Merit College Preparatory AcademyMeridian School,0,0,0,0,220,233,0,220,233
+26760,Art City School,415,0,0,0,0,0,415,0,0
+26817,Westside School,612,0,0,0,0,0,612,0,0
+26836,Reagan Academy,0,0,0,557,126,0,557,126,0
+26918,Treeside Charter School,0,0,0,437,0,0,437,0,0
+26923,Spring Creek SchoolSlate Mountain School,421,9,23,0,0,0,421,9,23
+27005,Shoreline Middle School,0,877,0,0,0,0,0,877,0
+27047,Provost School,510,0,0,0,0,0,510,0,0
+27072,Franklin School,366,0,0,0,0,0,366,0,0
+27116,Amelia Earhart School,375,0,0,0,0,0,375,0,0
+27137,Provo Peaks SchoolSunrise Preschool,520,0,0,0,0,0,520,0,0
+27278,Wasatch School,534,0,0,0,0,0,534,0,0
+27308,Lakeview School,693,0,0,0,0,0,693,0,0
+27336,Freedom Preparatory Academy,0,0,0,671,376,194,671,376,194
+27353,Westridge School,604,0,0,0,0,0,604,0,0
+27476,Cherry Hill School,634,0,0,0,0,0,634,0,0
+27499,Centennial MiddleRock Canyon School,488,1080,0,0,0,0,488,1080,0
+27548,Utah Autism Academy at Clear HorizonsClear Horizons,0,0,0,0,0,0,0,0,0
+27585,Westmore School,496,0,0,0,0,0,496,0,0
+27605,Lakeridge Jr High,0,1348,0,0,0,0,0,1348,0
+27614,Edgemont School,609,0,0,0,0,0,609,0,0
+27731,Harbor Point Elementary,690,0,0,0,0,0,690,0,0
+27740,Centennial ElementaryElizabeth DeLong School of the Deaf,716,0,0,0,0,0,716,0,0
+27745,Vineyard School,713,0,0,0,0,0,713,0,0
+27839,Arches Academy,0,0,0,0,0,0,0,0,0
+27853,Orem School,618,0,0,0,0,0,618,0,0
+27900,Orem High,0,0,1285,0,0,0,0,0,1285
+27907,Franklin Discovery Academy,0,0,0,720,0,0,720,0,0
+27913,Mountain View High,0,0,1654,0,0,0,0,0,1654
+27962,Chapman Music Institute,0,0,0,0,0,0,0,0,0
+27965,Telos Academy,0,0,0,0,0,0,0,0,0
+27995,Cascade School,876,0,0,0,0,0,876,0,0
+27999,Happy Hands Day Care & Pre School,0,0,0,0,0,0,0,0,0
+28083,Parkside ElementaryKids on the Move,549,0,0,0,0,0,549,0,0
+28126,Freedom Preparatory Academy - VineyardSoaring Eagles Preschool,0,0,0,505,0,0,505,0,0
+28171,Canyon Crest School,485,0,0,0,0,0,485,0,0
+28177,Sage Hills School,851,0,0,0,0,0,851,0,0
+28212,A to Z Building Blocks Orem,0,0,0,0,0,0,0,0,0
+28284,Lumen Scholar Institute,0,0,0,0,0,0,0,0,0
+28308,Orem Jr High,0,975,0,0,0,0,0,975,0
+28337,Provo Canyon School,0,0,0,0,0,0,0,0,0
+28347,The Kids Connection,0,0,0,0,0,0,0,0,0
+28360,Mountain Trails School,831,0,0,0,0,0,831,0,0
+28413,Foothill School,488,0,0,0,0,0,488,0,0
+28484,Orchard SchoolCanyon View Jr High,589,1075,0,0,0,0,589,1075,0
+28534,Bonneville School,509,0,0,0,0,0,509,0,0
+28547,Windsor School,549,0,0,0,0,0,549,0,0
+28554,Timpanogos High,0,0,1572,0,0,0,0,0,1572
+28601,Cedar Valley School,106,0,0,0,0,0,106,0,0
+28620,Northridge School,393,0,0,0,0,0,393,0,0
+28632,Karl G. Maeser Preparatory Academy,0,0,0,0,350,304,0,350,304
+28642,Cascade Mountain High,0,0,0,0,0,0,0,0,0
+28669,Montessori Learning Center,0,0,0,0,0,0,0,0,0
+28671,Aspen School,416,0,0,0,0,0,416,0,0
+28698,Frontier Middle School,0,1793,0,0,0,0,0,1793,0
+28702,Saratoga Shores School,723,0,0,0,0,0,723,0,0
+28721,Canyon School for the Arts,0,0,0,0,0,0,0,0,0
+28724,Rocky Mountain School,480,0,0,0,0,0,480,0,0
+28730,Oak Canyon Jr High,0,1303,0,0,0,0,0,1303,0
+28734,Timpanogos AcademyNahunta HallGo Beyond KidsKurious Active Learning Community,0,0,0,490,0,0,490,0,0
+28816,Lake Mountain Middle,0,1480,0,0,0,0,0,1480,0
+28831,Lindon School,538,0,0,0,0,0,538,0,0
+28877,Springside School,821,0,0,0,0,0,821,0,0
+28949,Spectrum Academy - Pleasant Grove,0,0,0,325,196,183,325,196,183
+28958,Hidden Hollow School,892,0,0,0,0,0,892,0,0
+29054,Liahona Preparatory AcademyBreakOut School,0,0,0,0,0,0,0,0,0
+29067,Ranches Academy,0,0,0,361,0,0,361,0,0
+29089,Pleasant Grove High,0,0,1957,0,0,0,0,0,1957
+29116,Pony Express School,975,0,0,0,0,0,975,0,0
+29119,A to Z Building Blocks on Ranches Parkway,0,0,0,0,0,0,0,0,0
+29123,Odyssey Charter School,0,0,0,420,0,0,420,0,0
+29256,Westlake High,0,0,3155,0,0,0,0,0,3155
+29276,Central School,594,0,0,0,0,0,594,0,0
+29278,John Hancock Charters School Eagle MountainJohn Hancock Charter School,0,0,0,887,159,0,887,159,0
+29366,Horizon SchoolThunder Ridge School,1062,19,112,0,0,0,1062,19,112
+29367,Lakeview Academy,0,0,0,782,279,0,782,279,0
+29368,Vista Heights Middle,0,1689,0,0,0,0,0,1689,0
+29404,Athenian eAcademy,0,0,0,479,94,0,479,94,0
+29466,Greenwood School,658,0,0,0,0,0,658,0,0
+29494,Mount Mahogany School,585,0,0,0,0,0,585,0,0
+29546,Grovecrest SchoolPleasant Grove Jr High,681,1183,0,0,0,0,681,1183,0
+29572,Dry Creek School,1111,0,0,0,0,0,1111,0,0
+29669,New Hope Academy,0,0,0,0,0,0,0,0,0
+29694,Snow Springs School,769,0,0,0,0,0,769,0,0
+29715,Rockwell Charter High School,0,0,0,0,109,178,0,109,178
+29722,A to Z Building Blocks American Fork on 300 East,0,0,0,0,0,0,0,0,0
+29724,A to Z Building Blocks American Fork on 100 East,0,0,0,0,0,0,0,0,0
+29742,Barratt SchoolDan W. Peterson,558,28,184,0,0,0,558,28,184
+29779,Forbes School,546,0,0,0,0,0,546,0,0
+29780,Manila School,540,0,0,0,0,0,540,0,0
+29782,American Legacy Academy,0,0,0,0,0,0,0,0,0
+29805,Black Ridge School,821,0,0,0,0,0,821,0,0
+29870,UTBS Academy - Lehi,0,0,0,0,0,0,0,0,0
+29929,Meadow School,574,0,0,0,0,0,574,0,0
+29980,Serv By ApptAlpine Online School,0,0,0,0,0,0,0,0,0
+30045,Willowcreek Middle,0,1594,0,0,0,0,0,1594,0
+30047,Shelley School,732,0,0,0,0,0,732,0,0
+30068,American Fork High,0,0,2387,0,0,0,0,0,2387
+30113,The PEAC Preschool,0,0,0,0,0,0,0,0,0
+30130,Lehi High,0,0,2299,0,0,0,0,0,2299
+30157,Riverview School,958,0,0,0,0,0,958,0,0
+30162,River Rock School,932,0,0,0,0,0,932,0,0
+30228,Ascent Academies of Utah Lehi,0,0,0,521,126,0,521,126,0
+30244,American Heritage School,0,0,0,0,0,0,0,0,0
+30261,Sego Lily School,604,0,0,0,0,0,604,0,0
+30268,Lehi School,476,0,0,0,0,0,476,0,0
+30311,Lincoln Academy,0,0,0,574,337,0,574,337,0
+30320,Legacy SchoolAmerican Fork Jr High,766,1840,0,0,0,0,766,1840,0
+30337,Harvest School,988,0,0,0,0,0,988,0,0
+30343,Lehi Jr High,0,1382,0,0,0,0,0,1382,0
+30393,Deerfield School,505,0,0,0,0,0,505,0,0
+30501,North Point School,1057,0,0,0,0,0,1057,0,0
+30531,Utah Military Academy - Camp Williams,0,0,0,0,169,188,0,169,188
+30540,Cedar Ridge School,662,0,0,0,0,0,662,0,0
+30570,Liberty Hills Elementary,824,0,0,0,0,0,824,0,0
+30643,Freedom School,623,0,0,0,0,0,623,0,0
+30651,Mountain Ridge Jr High,0,963,0,0,0,0,0,963,0
+30667,Lone Peak High,0,0,2562,0,0,0,0,0,2562
+30696,Eaglecrest School,701,0,0,0,0,0,701,0,0
+30704,Elevated Charter School,0,0,0,234,0,0,234,0,0
+30746,Fabian House,0,0,0,0,0,0,0,0,0
+30751,Skyridge High School,0,114,2500,0,0,0,0,114,2500
+30781,Highland School,584,0,0,0,0,0,584,0,0
+30821,Mountain Point Academy,0,0,0,0,0,0,0,0,0
+30822,Renaissance Academy,0,0,0,645,97,0,645,97,0
+30867,Viewpoint Middle,0,1678,0,0,0,0,0,1678,0
+30940,Ignite Entrepreneurship Academy,0,0,0,445,44,0,445,44,0
+30946,Ridgeline School,702,0,0,0,0,0,702,0,0
+30978,"Sunshine Academy, LLC",0,0,0,0,0,0,0,0,0
+30993,Mountainville Academy,0,0,0,661,0,0,661,0,0
+30997,Traverse Mountain School,836,0,0,0,0,0,836,0,0
+31021,Westfield SchoolTimberline Middle,547,1329,0,0,0,0,547,1329,0
+31039,Alpine School,535,0,0,0,0,0,535,0,0
+31066,Belmont School,901,0,0,0,0,0,901,0,0
+31147,Mt. Nebo Middle,0,1035,0,0,0,0,0,1035,0
+31176,Rees School,723,0,0,0,0,0,723,0,0
+31203,Sunset View School,591,0,0,0,0,0,591,0,0
+31206,Independence HighProvo Adult Education,0,0,276,0,0,0,0,0,276
+31215,Timpview HighSlope School,0,0,2301,0,0,0,0,0,2301
+31223,Walden School of Liberal Arts,0,0,0,204,103,79,204,103,79
+31257,Trailside Elementary,1044,0,0,0,0,0,1044,0,0
+31297,Silver Lake Elementary,782,0,0,0,0,0,782,0,0
+31298,Brookhaven School,1074,0,0,0,0,0,1074,0,0
+31334,Mountain Sunrise Academy,0,0,0,461,32,0,461,32,0
+31370,Desert Sky,1087,0,0,0,0,0,1087,0,0
+31406,Canyon Grove Academy,0,0,0,849,220,0,849,220,0
+31436,Fox Hollow School,711,0,0,0,0,0,711,0,0
+31468,Ascent Academies of Utah Saratoga Springs,0,0,0,637,0,0,637,0,0
+31553,Nebo Online School,0,0,0,0,0,0,0,0,0
+31619,Nebo Advanced Learning Center,0,0,3,0,0,0,0,0,3
+31711,Wonderland Preschool and Child Care,0,0,0,0,0,0,0,0,0
+31793,Square Peg Academy,0,0,0,0,0,0,0,0,0
+31815,KoolMinds Orem,0,0,0,0,0,0,0,0,0
+31836,Oasis Provo,0,0,0,0,0,0,0,0,0
+31856,Early Learning Essentials,0,0,0,0,0,0,0,0,0
+31874,Timpanogos School,633,0,0,0,0,0,633,0,0
+31926,Provo High,0,0,2026,0,0,0,0,0,2026
+31927,Provo eSchool,0,0,0,0,0,0,0,0,0
+31931,BYU Independent Study,0,0,0,0,0,0,0,0,0
+31964,Alta Independent,0,0,0,0,0,0,0,0,0
+32072,Utah County Academy of Science,0,0,0,0,0,509,0,0,509
+32084,Noah Webster Academy,0,0,0,520,0,0,520,0,0
+32140,Heritage Schools Inc.,0,0,0,0,0,0,0,0,0
+32152,Eagle Valley School,776,0,0,0,0,0,776,0,0
+32156,Just 4 Kids Adventures Orem,0,0,0,0,0,0,0,0,0
+32163,Cedar Valley High,0,0,3325,0,0,0,0,0,3325
+32309,Dancing Moose Montessori Museum Campus,0,0,0,0,0,0,0,0,0
+32370,Summit HighPolaris High SchoolEast Shore Online,0,19,216,0,0,0,0,19,216
